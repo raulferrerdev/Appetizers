@@ -19,6 +19,7 @@
 		C48E746C26F77359002FFD8C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48E746B26F77359002FFD8C /* NetworkManager.swift */; };
 		C48E746E26F77433002FFD8C /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48E746D26F77433002FFD8C /* APError.swift */; };
 		C494284626F85A6B00602FCE /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C494284526F85A6B00602FCE /* AppetizerListViewModel.swift */; };
+		C499BCD926FAFBFB00BD607E /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = C499BCD826FAFBFA00BD607E /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		C48E746B26F77359002FFD8C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		C48E746D26F77433002FFD8C /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 		C494284526F85A6B00602FCE /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
+		C499BCD826FAFBFA00BD607E /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				C48E746B26F77359002FFD8C /* NetworkManager.swift */,
 				C48E746D26F77433002FFD8C /* APError.swift */,
 				C494284526F85A6B00602FCE /* AppetizerListViewModel.swift */,
+				C499BCD826FAFBFA00BD607E /* Alert.swift */,
 			);
 			path = Appetizers;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				C48E745526F7662F002FFD8C /* AppetizerTabView.swift in Sources */,
 				C48E746C26F77359002FFD8C /* NetworkManager.swift in Sources */,
 				C48E745326F7662F002FFD8C /* AppetizersApp.swift in Sources */,
+				C499BCD926FAFBFB00BD607E /* Alert.swift in Sources */,
 				C48E746226F766A8002FFD8C /* AppetizerListView.swift in Sources */,
 				C48E746626F766BF002FFD8C /* OrderView.swift in Sources */,
 			);
